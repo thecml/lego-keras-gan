@@ -1,2 +1,2 @@
 # lego-keras-gan
-A GAN to create images to LEGO figures.
+A GAN to create images of LEGO figures.
